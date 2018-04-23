@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ACWS</string>
+    <string name="text_to_register">Not have an account? <u>Register here...</u></string>
+    <string name="text_to_login">Already have an account? <u>Login here...</u></string>
+</resources>
